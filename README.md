@@ -8,6 +8,11 @@ Umm sistema que simula o funcionamento de biblioteca. Projeto feito para pratica
 - NodeJS <img align="center" alt="Gui-HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
 - NPM <img align="center" alt="Gui-HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
 
+Rodar o projeto
+```bash
+node index.js
+```
+![image](https://user-images.githubusercontent.com/58920070/210026922-fbc18619-6a01-46b7-8d0a-a6f6fd1df9bf.png)
 
 ## Authors
 ![image](https://user-images.githubusercontent.com/58920070/210025278-c42d8661-3186-428f-955c-8786051fb1d4.png)
