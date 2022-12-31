@@ -1,6 +1,6 @@
 # Bookstore JS
 ## Sobre o projeto
-Umm sistema que simula o funcionamento de biblioteca. Projeto feito para praticaar POO(OOP) com Javascript.
+Umm sistema que simula o funcionamento de biblioteca. No sistema é possível criar usuários, autores, registrar livros, posters, fazer pedidos, além de permitir consultar esses mesmos dados. Projeto feito para praticaar POO(OOP) com Javascript.
 
 ## Ferramentas
 
