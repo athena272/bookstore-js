@@ -39,7 +39,7 @@ app.createBook({
 })
 
 app.createBook({
-    title: 'O Ladrão de Raios',
+    title: 'O Ladrão de Raios agnaigeqo',
     synopsis: '...',
     genre: 'fantasy',
     pages: 500,
